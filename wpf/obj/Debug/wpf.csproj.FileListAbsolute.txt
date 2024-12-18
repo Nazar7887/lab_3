@@ -1,0 +1,10 @@
+D:\programing\orders\c#_Nazar\lr3\wpf\bin\Debug\wpf.exe.config
+D:\programing\orders\c#_Nazar\lr3\wpf\bin\Debug\wpf.exe
+D:\programing\orders\c#_Nazar\lr3\wpf\bin\Debug\wpf.pdb
+D:\programing\orders\c#_Nazar\lr3\wpf\obj\Debug\wpf.csproj.AssemblyReference.cache
+D:\programing\orders\c#_Nazar\lr3\wpf\obj\Debug\wpf.Form1.resources
+D:\programing\orders\c#_Nazar\lr3\wpf\obj\Debug\wpf.Properties.Resources.resources
+D:\programing\orders\c#_Nazar\lr3\wpf\obj\Debug\wpf.csproj.GenerateResource.cache
+D:\programing\orders\c#_Nazar\lr3\wpf\obj\Debug\wpf.csproj.CoreCompileInputs.cache
+D:\programing\orders\c#_Nazar\lr3\wpf\obj\Debug\wpf.exe
+D:\programing\orders\c#_Nazar\lr3\wpf\obj\Debug\wpf.pdb
